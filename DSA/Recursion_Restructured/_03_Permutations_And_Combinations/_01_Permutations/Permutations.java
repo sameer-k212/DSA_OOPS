@@ -10,7 +10,7 @@ public class Permutations {
         System.out.println("Permutations of [1,2,3]: " + result1);
         
         System.out.println("\nPermutations of 'abc':");
-        permutationsString("abc", "");
+        permutedString("abc", new ArrayList<>(), "");
         
         System.out.println("\nPermutations of numbers 1 to 3:");
         permutationsNumber(3, "", new boolean[3]);
@@ -33,16 +33,18 @@ public class Permutations {
         }
     }
 
-    public static void permutationsString(String str, String current) {
-        if (str.length() == 0) {
-            System.out.print(current + " ");
+    private static void permutedString(String s, List<String> ans, String curr) {
+        if (curr.length() == s.length()) {
+            ans.add(curr);
             return;
         }
 
-        for (int i = 0; i < str.length(); i++) {
-            char ch = str.charAt(i);
-            String remaining = str.substring(0, i) + str.substring(i + 1);
-            permutationsString(remaining, current + ch);
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+
+            if (curr.contains(String.valueOf(ch))) continue;
+
+            permutedString(s, ans, curr + ch);
         }
     }
 

@@ -59,16 +59,18 @@ public static void permutationsArray(int[] arr, List<Integer> current, List<List
 
 ### String Permutations
 ```java
-public static void permutationsString(String str, String current) {
-    if (str.length() == 0) {
-        System.out.print(current + " ");
+private static void permutedString(String s, List<String> ans, String curr) {
+    if (curr.length() == s.length()) {
+        ans.add(curr);
         return;
     }
 
-    for (int i = 0; i < str.length(); i++) {
-        char ch = str.charAt(i);
-        String remaining = str.substring(0, i) + str.substring(i + 1);
-        permutationsString(remaining, current + ch);
+    for (int i = 0; i < s.length(); i++) {
+        char ch = s.charAt(i);
+
+        if (curr.contains(String.valueOf(ch))) continue;
+
+        permutedString(s, ans, curr + ch);
     }
 }
 ```
