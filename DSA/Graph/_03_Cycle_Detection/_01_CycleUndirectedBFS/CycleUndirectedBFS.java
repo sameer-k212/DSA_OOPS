@@ -1,7 +1,7 @@
 package DSA.Graph._03_Cycle_Detection._01_CycleUndirectedBFS;
 import java.util.*;
 
-public class DetectCycleUDGBFS {
+class DetectCycleUDGBFS {
     static class Pair {
         int parent;
         int node;

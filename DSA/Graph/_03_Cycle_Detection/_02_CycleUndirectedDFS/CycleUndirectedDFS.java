@@ -1,6 +1,6 @@
 package DSA.Graph._03_Cycle_Detection._02_CycleUndirectedDFS;
 import java.util.*;
-public class DetectCycleUDGDFS {
+class DetectCycleUDGDFS {
     static class Pair{
         int node, parent;
         Pair(int node, int parent){

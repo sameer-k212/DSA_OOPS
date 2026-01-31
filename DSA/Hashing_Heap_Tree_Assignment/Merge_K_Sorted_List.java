@@ -1,4 +1,4 @@
-package Hashing_Heap_Tree_Assignment;
+package DSA.Hashing_Heap_Tree_Assignment;
 import java.util.*;
 public class Merge_K_Sorted_List {
     public static void main(String[] args) {

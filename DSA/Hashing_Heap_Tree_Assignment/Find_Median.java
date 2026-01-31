@@ -1,4 +1,4 @@
-package Hashing_Heap_Tree_Assignment;
+package DSA.Hashing_Heap_Tree_Assignment;
 import java.util.*;
 
 public class Find_Median {
