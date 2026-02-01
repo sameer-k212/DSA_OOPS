@@ -5,7 +5,7 @@ import java.util.Map.*;
 import java.util.TreeMap;
 
 import java.util.Iterator;
-// DSA.Array.Hashing.HashMap is Class : key value pair
+// DSA.Hashing.HashMap is Class : key value pair
 public class Hashmap {
     public static void main(String[] args) {
         System.out.println("1..........................................");
@@ -30,11 +30,11 @@ public class Hashmap {
         System.out.println(hm);
 
 
-        // Declaring a DSA.Array.Hashing.HashMap
+        // Declaring a DSA.Hashing.HashMap
         System.out.println("3..................................");
         HashMap<String, Integer> hashmap1 = new HashMap<>();
-//    or     var hashMap = new DSA.Array.Hashing.HashMap<String, Integer>();
-        // Adding key-value pairs to the DSA.Array.Hashing.HashMap
+//    or     var hashMap = new DSA.Hashing.HashMap<String, Integer>();
+        // Adding key-value pairs to the DSA.Hashing.HashMap
         hashmap1.put("apple", 2);
         hashmap1.put("orange", 3);
         hashmap1.put("banana", 1);
@@ -62,11 +62,11 @@ public class Hashmap {
             System.out.println(entry.getKey() + ": " + entry.getValue());
         }
 
-        // Iterating over the keys in the DSA.Array.Hashing.HashMap
+        // Iterating over the keys in the DSA.Hashing.HashMap
         for (String key : hashmap1.keySet()) {
             System.out.println("Key: " + key);
         }
-        // Iterating over the keys in the DSA.Array.Hashing.HashMap using iterator
+        // Iterating over the keys in the DSA.Hashing.HashMap using iterator
         Iterator<String> iterator1 = hashmap1.keySet().iterator();
         while (iterator1.hasNext()) {
             String key = iterator1.next();
@@ -74,7 +74,7 @@ public class Hashmap {
         }
 
 
-        // sorting according to key and Iterating over the DSA.Array.Hashing.HashMap entries
+        // sorting according to key and Iterating over the DSA.Hashing.HashMap entries
         Map<String, Integer> sortedMap = new TreeMap<>(hashmap1);
         for (Map.Entry<String, Integer> entry : sortedMap.entrySet()) {
             System.out.println(entry.getKey() + " : " + entry.getValue());

@@ -12,7 +12,7 @@ public class Unlock {
             arr[i] = sc.nextInt();
         }
 
-        // DSA.Array.Hashing.HashMap to keep track of the current index of each number
+        // DSA.Hashing.HashMap to keep track of the current index of each number
         HashMap<Integer, Integer> indexMap = new HashMap<>();
         for (int i = 0; i < n; i++) {
             indexMap.put(arr[i], i);
