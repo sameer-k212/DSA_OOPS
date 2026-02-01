@@ -1,4 +1,4 @@
-package DSA.Hashing_Heap_Tree_Assignment;
+package DSA.SomeImpProblems;
 
 import java.util.*;
 

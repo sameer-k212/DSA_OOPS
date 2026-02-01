@@ -1,4 +1,4 @@
-package DSA.Hashing_Heap_Tree_Assignment;
+package DSA.SomeImpProblems;
 import java.util.*;
 public class Highest_Frequency_Element {
     public static void main (String args[]) {
