@@ -1,4 +1,4 @@
-package DSA.SomeImpProblems;
+package DSA.zSomeImpProblems;
 import java.util.*;
 public class Merge_K_Sorted_List {
     public static void main(String[] args) {

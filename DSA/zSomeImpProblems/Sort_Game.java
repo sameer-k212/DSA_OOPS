@@ -1,4 +1,4 @@
-package DSA.SomeImpProblems;
+package DSA.zSomeImpProblems;
 import java.util.*;
 public class Sort_Game {
     public static void main(String[] args) {
