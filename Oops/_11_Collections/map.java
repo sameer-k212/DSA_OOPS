@@ -6,12 +6,12 @@ import java.util.*;
 
 /*
 By using the Map interface for declarations, you can easily switch between different Map implementations
-(like DSA.Hashing.HashMap, TreeMap, or LinkedHashMap) without changing the rest of your code.
+(like DSA.Array.Hashing.HashMap, TreeMap, or LinkedHashMap) without changing the rest of your code.
 This promotes flexibility and code re-usability.
  */
 public class map {
     public static void main(String args[]){
-        // Using DSA.Hashing.HashMap
+        // Using DSA.Array.Hashing.HashMap
         // Declaring a map using the Map interface
         Map<String, Integer> map1 = new HashMap<>();
         // Adding key-value pairs to the map
