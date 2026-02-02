@@ -44,6 +44,10 @@ public class SubarraySumEqualK {
         for(int i = 0; i < n; i++){
             sum += nums[i];
 
+            if(sum == k){
+                maxLen = i + 1;
+            }
+
             if(prefixSum.containsKey(sum - k)){
                 int endingIdx = i;
                 int startingIdx = prefixSum.get(sum-k);
