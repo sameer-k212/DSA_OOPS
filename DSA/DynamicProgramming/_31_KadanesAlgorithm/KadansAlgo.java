@@ -1,4 +1,4 @@
-package DSA.DynamicProgramming;
+package DSA_OOPS.DSA.DynamicProgramming._31_KadanesAlgorithm;
 
 public class KadansAlgo {
     public int maxSubArray(int[] nums) {
