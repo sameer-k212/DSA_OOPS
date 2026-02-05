@@ -2,16 +2,17 @@ package DSA.Graph._05_Shortest_Path._03_DijkstraAlgorithm;
 
 import java.util.*;
 
-class Pair {
-    int node, dist;
-
-    Pair(int dist, int node) {
-        this.dist = dist;
-        this.node = node;
-    }
-}
 
 public class DjkstraAlgoSet {
+    static class Pair {
+        int node, dist;
+
+        Pair(int dist, int node) {
+            this.dist = dist;
+            this.node = node;
+        }
+    }
+
     public static int[] dijkstra(int V, List<List<int[]>> adj, int S) {
         int[] dist = new int[V];
         Arrays.fill(dist, Integer.MAX_VALUE);

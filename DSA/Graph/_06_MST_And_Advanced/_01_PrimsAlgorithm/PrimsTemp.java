@@ -3,9 +3,9 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.PriorityQueue;
 
-public class Prims {
+public class PrimsTemp {
     HashMap<Integer,HashMap<Integer,Integer>> map;
-    Prims(int vertex){
+    PrimsTemp(int vertex){
         map= new HashMap<>();
         for(int i=1;i<=vertex;i++){
             map.put(i,new HashMap<Integer,Integer>());
@@ -54,7 +54,7 @@ public class Prims {
         System.out.println(ans);
     }
     public static void main(String[] args) {
-        Prims k= new Prims(7);
+        PrimsTemp k= new PrimsTemp(7);
         k.add(1, 2, 1);
         k.add(1, 4, 2);
         k.add(2, 3, 4);

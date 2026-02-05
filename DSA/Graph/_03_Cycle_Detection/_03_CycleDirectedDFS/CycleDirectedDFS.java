@@ -3,7 +3,7 @@ import java.util.*;
 // iterative will become more difficult because of backtracking.
 // so that we use recursive approach to backtrack.
 
-public class CycleInDirectedGraphDFS {
+class CycleInDirectedGraphDFS {
 
     public boolean isCyclic(ArrayList<ArrayList<Integer>> graph) {
         int n = graph.size();

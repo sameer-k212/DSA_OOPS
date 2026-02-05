@@ -15,7 +15,7 @@ class GraphNode{
         return "value :"+ this . val ;
     }
 }
-class Queue{
+class Queue<I extends Number> {
     GraphNode first , last ;
     public void enqueue(GraphNode n){
         if( first == null){
@@ -54,7 +54,7 @@ public class BFSUsingQueue {
     public static void breathFirstSearch(GraphNode root , int x){
         if(root .val == x)
             System.out.println("find in root") ;
-        Queue queue =new Queue() ;
+        Queue<Number> queue =new Queue<Number>() ;
         root .visited = true;
         queue.enqueue(root) ;
         while(queue. first != null){

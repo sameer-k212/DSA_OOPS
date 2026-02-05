@@ -4,15 +4,16 @@ import java.util.*;
 
 // User function Template for Java
 
-class Pair {
-    int node;
-    int distance;
-    public Pair(int distance, int node) {
-        this.node = node;
-        this.distance = distance;
-    }
-}
+
 class Prims {
+    static class Pair {
+        int node;
+        int distance;
+        public Pair(int distance, int node) {
+            this.node = node;
+            this.distance = distance;
+        }
+    }
     //Function to find sum of weights of edges of the Minimum Spanning Tree.
     static int spanningTree(int V,
                             ArrayList<ArrayList<ArrayList<Integer>>> adj) {

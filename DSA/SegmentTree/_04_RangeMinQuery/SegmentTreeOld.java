@@ -1,6 +1,6 @@
-package SegmentTree;
+package DSA.SegmentTree._04_RangeMinQuery;
 
-public class SegmentTree {
+class SegmentTree {
     int segmentTree[];
 
     public SegmentTree(int n) {
