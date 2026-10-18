@@ -1,4 +1,4 @@
-package DSA_OOPS.DSA.BitManipulation._02_Basic_Problems._02_CountSetBits;
+
 
 public class CountSetBits {
     public static int countSetBits(int n) {
