@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 public class MinimumXOR {
     public static int minimizeXor(int num1, int num2) {
         int setBits = Integer.bitCount(num2);
