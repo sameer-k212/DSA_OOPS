@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._18_WaysToGetTargetUsingCoins;
 
 public class WaysToGetTargetUsingCoinsOfINFAmount {
     // In Just How "Many Ways" Question  we have to return either 1 or 0(Based on target Achived or not).

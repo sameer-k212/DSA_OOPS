@@ -1,4 +1,3 @@
-package Oops.stream;
 
 import java.util.*;
 import java.util.stream.Collector;

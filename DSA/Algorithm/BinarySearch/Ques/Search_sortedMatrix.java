@@ -1,4 +1,3 @@
-package Binary_Search;
 
 // search in a sorted matrix
 // target = 2

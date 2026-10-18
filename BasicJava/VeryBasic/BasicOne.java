@@ -1,4 +1,3 @@
-package VeryBasic;
 //The instance variables, constructor, and method names can appear in
 //        any order within a class declaration.
 

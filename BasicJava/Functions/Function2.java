@@ -1,4 +1,3 @@
-package Functions;
 
 public class Function2 {
     int m; // yaha value doge to m ka scope pure class main hoga so

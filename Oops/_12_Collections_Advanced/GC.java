@@ -1,4 +1,3 @@
-package com.engineeringdigest.collectionframework;
 
 import java.lang.ref.WeakReference;
 

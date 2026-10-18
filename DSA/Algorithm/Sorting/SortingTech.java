@@ -1,4 +1,3 @@
-package DSA.Algorithm.Sorting;
 import java.util.*;
 public class SortingTech {
     public static void main(String[] args) {

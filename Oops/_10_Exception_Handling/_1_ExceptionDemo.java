@@ -1,4 +1,3 @@
-package Oops._9_Exception;
 
 public class _1_ExceptionDemo
 	{

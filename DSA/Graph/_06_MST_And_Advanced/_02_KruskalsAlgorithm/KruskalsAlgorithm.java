@@ -1,4 +1,3 @@
-package DSA.Graph._06_MST_And_Advanced._02_KruskalsAlgorithm;
 
 import java.util.*;
 

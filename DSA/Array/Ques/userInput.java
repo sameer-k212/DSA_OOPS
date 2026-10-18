@@ -1,4 +1,3 @@
-package Array;
 
 
 //take array input

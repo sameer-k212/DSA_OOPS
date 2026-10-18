@@ -1,4 +1,3 @@
-package com.engineeringdigest.collectionframework;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

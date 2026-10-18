@@ -1,4 +1,3 @@
-package Oops.SystemClass;
 import java.util.*;
 public class SystemClass {
     public static void main(String[] args) {

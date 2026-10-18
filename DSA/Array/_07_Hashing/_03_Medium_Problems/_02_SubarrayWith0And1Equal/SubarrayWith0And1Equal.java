@@ -1,4 +1,3 @@
-package DSA.Array._07_Hashing._03_Medium_Problems._02_SubarrayWith0And1Equal;
 
 import java.util.*;
 

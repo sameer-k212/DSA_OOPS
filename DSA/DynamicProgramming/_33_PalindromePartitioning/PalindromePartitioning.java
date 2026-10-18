@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.DynamicProgramming._33_PalindromePartitioning;
 
 public class PalindromePartitioning {
     public static int minCut(String s) {

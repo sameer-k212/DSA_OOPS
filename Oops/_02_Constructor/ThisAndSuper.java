@@ -1,4 +1,3 @@
-package Oops._1_Constructor;
 class Demo{
     String new_name;
     Demo(String new_name){

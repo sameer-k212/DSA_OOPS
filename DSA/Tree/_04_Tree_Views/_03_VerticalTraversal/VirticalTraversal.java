@@ -1,4 +1,3 @@
-package DSA.Tree._04_Tree_Views._03_VerticalTraversal;
 import java.util.*;
 // we are taking PriorityQueue so that elements are sorted(for overlapped element) in order
 public class VirticalTraversal {

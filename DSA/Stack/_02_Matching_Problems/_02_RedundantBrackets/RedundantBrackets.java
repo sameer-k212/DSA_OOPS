@@ -1,4 +1,3 @@
-package DSA.Stack._02_Matching_Problems._02_RedundantBrackets;
 
 import java.util.*;
 

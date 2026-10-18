@@ -1,4 +1,3 @@
-package String;
 
 //in Java, the == operator compares the
 //        references of two objects, not their contents. Since str1[3] and str1[4]

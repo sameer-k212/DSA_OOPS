@@ -1,4 +1,3 @@
-package DSA.Tree._03_Binary_Search_Tree._01_BSTImplementation;
 
 import java.util.ArrayList;
 // Validate Binary Search Tree

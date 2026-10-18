@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._20_MaximumCostToCutTheRodOfGivenLen;
 
 public class RodCutting {
     public int cutRod(int[] price) {

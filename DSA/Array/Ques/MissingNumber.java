@@ -1,4 +1,3 @@
-package Array;
 
 
 //Find the missing number from 1 to n

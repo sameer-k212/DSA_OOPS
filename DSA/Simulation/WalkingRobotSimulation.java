@@ -1,4 +1,3 @@
-package Simulation;
 import java.util.*;
 public class WalkingRobotSimulation {
     public static int robotSim(int[] commands, int[][] obstacles) {

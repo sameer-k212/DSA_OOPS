@@ -1,4 +1,3 @@
-package Oops._1_Constructor;
 
 public class PrivateConstructor {
     public static PrivateConstructor obj= new PrivateConstructor();

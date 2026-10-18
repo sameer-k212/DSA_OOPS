@@ -1,4 +1,3 @@
-package Binary_Search;
 
 //array of infinite numbers
 

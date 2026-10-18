@@ -1,4 +1,3 @@
-package DSA.Algorithm.KdanesAlgo;
 
 public class MaximumSumSubArray {
     public static void main(String[] args) {

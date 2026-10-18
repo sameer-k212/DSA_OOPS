@@ -1,4 +1,3 @@
-package Oops.Multithreading;
 
 public class StateOfThread extends Thread{
     @Override

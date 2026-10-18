@@ -1,4 +1,3 @@
-package DSA.Stack._03_Monotonic_Stack._03_CelebrityProblem;
 
 import java.util.*;
 

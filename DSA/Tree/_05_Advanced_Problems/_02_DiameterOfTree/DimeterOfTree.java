@@ -1,4 +1,3 @@
-package DSA.Tree._05_Advanced_Problems._02_DiameterOfTree;
 
 public class DimeterOfTree {
     class TreeNode {

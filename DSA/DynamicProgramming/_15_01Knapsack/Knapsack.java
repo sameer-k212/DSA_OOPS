@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.DynamicProgramming._15_01Knapsack;
 
 public class Knapsack {
     static int knapsack(int W, int val[], int wt[]) {

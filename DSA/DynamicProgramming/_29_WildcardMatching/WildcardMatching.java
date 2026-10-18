@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._29_WildcardMatching;
 
 public class WildcardMatching {
     public static void main(String[] args) {

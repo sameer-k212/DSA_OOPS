@@ -1,4 +1,3 @@
-package BasicJava.Math;
 
 public class DigitCount {
     int count=0;

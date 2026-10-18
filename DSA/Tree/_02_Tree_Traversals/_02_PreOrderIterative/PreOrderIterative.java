@@ -1,4 +1,3 @@
-package DSA.Tree._02_Tree_Traversals._02_PreOrderIterative;
 import java.util.*;
 
 public class PreOrderIterative {

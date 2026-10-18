@@ -1,4 +1,3 @@
-package DSA.Graph._04_Topological_Sort._05_AlienDictionary;
 import java.util.*;
 
 public class AlienDictionary {

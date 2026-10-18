@@ -1,4 +1,3 @@
-package Oops._8_Interface;
 interface A{
     int num = 6;
     void show();

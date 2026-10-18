@@ -1,4 +1,3 @@
-package Oops._9_Exception;
 
 class Demo {
 	public void a() {

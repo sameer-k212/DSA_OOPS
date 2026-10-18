@@ -1,4 +1,3 @@
-package Oops.IO._7_Deserialization;
 import java.io.*;
 
 // Important Instruction: 1. Ensure Serialization & Deserialization Use the Same Class

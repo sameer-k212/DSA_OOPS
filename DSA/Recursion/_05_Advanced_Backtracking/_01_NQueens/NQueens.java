@@ -1,4 +1,3 @@
-package DSA.Recursion._05_Advanced_Backtracking._01_NQueens;
 
 import java.util.ArrayList;
 import java.util.List;

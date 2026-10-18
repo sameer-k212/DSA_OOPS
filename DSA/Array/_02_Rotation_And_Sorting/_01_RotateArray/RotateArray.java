@@ -1,4 +1,3 @@
-package DSA.Array._02_Rotation_And_Sorting._01_RotateArray;
 
 public class RotateArray {
     // Rotate right by k positions

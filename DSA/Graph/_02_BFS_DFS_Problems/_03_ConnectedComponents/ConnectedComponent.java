@@ -1,4 +1,3 @@
-package DSA.Graph._02_BFS_DFS_Problems._03_ConnectedComponents;
 import java.util.*;
 
 public class ConnectedComponent {

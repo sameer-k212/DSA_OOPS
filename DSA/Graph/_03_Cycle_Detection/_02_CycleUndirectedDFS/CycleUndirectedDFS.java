@@ -1,4 +1,3 @@
-package DSA.Graph._03_Cycle_Detection._02_CycleUndirectedDFS;
 import java.util.*;
 class DetectCycleUDGDFS {
     static class Pair{

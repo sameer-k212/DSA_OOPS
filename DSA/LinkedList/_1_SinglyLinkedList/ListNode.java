@@ -1,4 +1,3 @@
-package DSA.LinkedList._1_SinglyLinkedList;
 import java.util.*;
 class ListNode{
 

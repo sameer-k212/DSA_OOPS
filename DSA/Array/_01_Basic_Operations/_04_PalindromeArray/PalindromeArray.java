@@ -1,4 +1,3 @@
-package DSA.Array._01_Basic_Operations._04_PalindromeArray;
 
 public class PalindromeArray {
     public static boolean isPalindrome(int[] arr) {

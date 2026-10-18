@@ -1,4 +1,3 @@
-package DSA.Array._07_Hashing._02_Easy_Problems._02_ValidAnagram;
 
 public class ValidAnagram {
     public boolean isAnagram(String s, String t) {

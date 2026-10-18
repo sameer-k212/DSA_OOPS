@@ -1,4 +1,3 @@
-package Array;
 
 
 //Check whether an array is sorted or not

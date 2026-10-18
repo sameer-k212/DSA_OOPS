@@ -1,4 +1,3 @@
-package DSA.Heap;
 
 public class Heap {
     int arr[];

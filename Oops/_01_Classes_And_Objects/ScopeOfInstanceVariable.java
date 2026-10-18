@@ -1,4 +1,3 @@
-package Oops._0_Classes$Object;
 
 public class ScopeOfInstanceVariable {
     int a = 9;

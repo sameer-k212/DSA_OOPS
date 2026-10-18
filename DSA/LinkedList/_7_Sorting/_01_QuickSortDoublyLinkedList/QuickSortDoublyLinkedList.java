@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._7_Sorting._01_QuickSortDoublyLinkedList;
 
 public class QuickSortDoublyLinkedList {
     static class Node {

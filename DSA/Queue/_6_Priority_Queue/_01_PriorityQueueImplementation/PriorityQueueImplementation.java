@@ -1,4 +1,3 @@
-package DSA.Queue._6_Priority_Queue._01_PriorityQueueImplementation;
 
 public class PriorityQueueImplementation {
     private int[] heap;

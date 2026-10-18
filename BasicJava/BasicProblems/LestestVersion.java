@@ -1,4 +1,3 @@
-package Ravi;
 public class LestestVersion {
 
     public static int findLatestVersion(String[] files, int size) {

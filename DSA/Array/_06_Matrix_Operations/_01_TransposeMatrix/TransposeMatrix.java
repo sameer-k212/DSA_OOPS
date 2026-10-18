@@ -1,4 +1,3 @@
-package DSA.Array._06_Matrix_Operations._01_TransposeMatrix;
 
 public class TransposeMatrix {
     public static int[][] transpose(int[][] matrix) {

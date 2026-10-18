@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.BitManipulation._02_Basic_Problems._03_SingleNumber;
 
 public class SingleNumber {
     public static int singleNumber(int[] nums) {

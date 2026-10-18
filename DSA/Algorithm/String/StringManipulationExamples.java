@@ -1,4 +1,3 @@
-package DSA.Algorithm.String;
 
 public class StringManipulationExamples {
     public static void main(String[] args) {

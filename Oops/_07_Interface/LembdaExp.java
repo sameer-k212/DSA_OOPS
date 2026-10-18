@@ -1,4 +1,3 @@
-package Oops._8_Interface;
 interface Car1
 {
     void drive();

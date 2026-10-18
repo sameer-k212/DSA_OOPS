@@ -1,4 +1,3 @@
-package Oops.Multithreading;
 
 /**
  * yield(): Thread.yield() is a static method that suggests the current thread temporarily

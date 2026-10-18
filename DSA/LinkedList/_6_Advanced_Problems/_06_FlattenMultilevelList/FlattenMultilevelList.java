@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._6_Advanced_Problems._06_FlattenMultilevelList;
 
 public class FlattenMultilevelList {
     static class Node {

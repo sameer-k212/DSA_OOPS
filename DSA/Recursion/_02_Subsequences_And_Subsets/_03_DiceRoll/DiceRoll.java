@@ -1,4 +1,3 @@
-package DSA.Recursion._02_Subsequences_And_Subsets._03_DiceRoll;
 
 public class DiceRoll {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package DSA.Recursion._04_Backtracking_Problems._02_PalindromePartitioning;
 
 import java.util.ArrayList;
 import java.util.List;

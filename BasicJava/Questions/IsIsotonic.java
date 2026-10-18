@@ -1,4 +1,3 @@
-package Questions;
 
 public class IsIsotonic {
     static boolean isIsotonic(int nums[]){

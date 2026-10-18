@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._9_MinimumFallingPath;
 
 public class MinimumFallingPath {
     public int minFallingPathSum(int[][] matrix) {

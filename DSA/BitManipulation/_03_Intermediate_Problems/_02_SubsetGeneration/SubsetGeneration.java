@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.BitManipulation._03_Intermediate_Problems._02_SubsetGeneration;
 
 import java.util.*;
 

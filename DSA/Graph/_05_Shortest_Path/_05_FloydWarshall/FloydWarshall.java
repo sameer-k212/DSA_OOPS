@@ -1,4 +1,3 @@
-package DSA.Graph._05_Shortest_Path._05_FloydWarshall;
 
 public class FloydWarshall {
     final static int INF = 99999;

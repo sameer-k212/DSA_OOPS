@@ -1,4 +1,3 @@
-package DSA.Recursion._01_Basic_Recursion._05_ReverseNumber;
 
 public class ReverseNumber {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package Functions;
 
 // Linear Search
 

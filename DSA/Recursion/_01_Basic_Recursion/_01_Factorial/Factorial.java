@@ -1,4 +1,3 @@
-package DSA.Recursion._01_Basic_Recursion._01_Factorial;
 
 public class Factorial {
     public static void main(String[] args) {

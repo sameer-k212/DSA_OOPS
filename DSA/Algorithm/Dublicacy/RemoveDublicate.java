@@ -1,4 +1,3 @@
-package DSA.Algorithm.Dublicacy;
 import java.util.*;
 // from sorted array;  {1,2,2,2,3,4,4}
 public class RemoveDublicate {

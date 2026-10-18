@@ -1,4 +1,3 @@
-package BasicJava.Math;
 
 class SumOfOddNatural{
     void main(int a,int b){

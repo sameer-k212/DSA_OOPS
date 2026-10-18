@@ -1,4 +1,3 @@
-package Functions;
 // very important;
 public class FunctionBasic {
     int b;

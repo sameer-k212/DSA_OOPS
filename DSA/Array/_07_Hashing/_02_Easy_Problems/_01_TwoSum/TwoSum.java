@@ -1,4 +1,3 @@
-package DSA.Array._07_Hashing._02_Easy_Problems._01_TwoSum;
 
 import java.util.*;
 

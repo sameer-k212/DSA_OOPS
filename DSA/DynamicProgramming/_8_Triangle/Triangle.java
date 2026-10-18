@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._8_Triangle;
 import java.util.*;
 
 public class Triangle {

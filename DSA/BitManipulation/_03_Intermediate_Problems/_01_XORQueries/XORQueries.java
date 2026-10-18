@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.BitManipulation._03_Intermediate_Problems._01_XORQueries;
 
 public class XORQueries {
     public static int[] xorQueries(int[] arr, int[][] queries) {

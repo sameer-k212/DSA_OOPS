@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.Algorithm.BinarySearch._03_FirstLastPosition;
 
 public class FirstLastPosition {
     public static int[] searchRange(int[] nums, int target) {

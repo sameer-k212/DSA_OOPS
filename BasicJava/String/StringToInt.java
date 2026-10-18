@@ -1,4 +1,3 @@
-package String;
 
 public class StringToInt {
     private static final int maxDiv10 = Integer.MAX_VALUE / 10;

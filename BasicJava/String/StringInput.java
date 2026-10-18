@@ -1,4 +1,3 @@
-package String;
 import java.util.*;
 public class StringInput {
     public static void main(String args[]){

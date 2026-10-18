@@ -1,4 +1,3 @@
-package DSA.Tree._05_Advanced_Problems._04_SymmetricTree;
 
 public class SymmetricTree {
     class TreeNode {

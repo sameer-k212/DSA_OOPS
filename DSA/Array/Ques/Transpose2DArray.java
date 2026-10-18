@@ -1,4 +1,3 @@
-package Array;
 
 //Transpose N * M matrix 
 

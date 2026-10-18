@@ -1,4 +1,3 @@
-package com.engineeringdigest.collectionframework.stream;
 
 import java.util.Arrays;
 import java.util.Comparator;

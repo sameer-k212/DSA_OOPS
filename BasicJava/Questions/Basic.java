@@ -1,4 +1,3 @@
-package Questions;
 
 // write a program to remove all special charecter from given string.
 class RemoveSpecialChar

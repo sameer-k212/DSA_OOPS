@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._27_CountDistinctSubsequences;
 
 public class DistinctSubsequences {
     public static void main(String[] args) {

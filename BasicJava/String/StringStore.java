@@ -1,4 +1,3 @@
-package String;
 
 public class StringStore {
     public static void main(String[] args) {

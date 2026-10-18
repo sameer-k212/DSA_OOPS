@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._10_CherryPickup2;
 
 public class CherryPickup_II {
     public int cherryPickup(int[][] grid) {

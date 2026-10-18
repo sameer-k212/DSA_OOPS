@@ -1,4 +1,3 @@
-package Oops.Threads._1_MainThread;
 
 // Default we have Main thread.
 class A{

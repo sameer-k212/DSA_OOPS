@@ -1,4 +1,3 @@
-package DSA.Heap;
 import java.util.*;
 public class Priorityqueue {
     ArrayList<Integer> list = new ArrayList<>();

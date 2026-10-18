@@ -1,4 +1,3 @@
-package Oops._6_Static._5_StaticImport;
 import static java.lang.Math.*; // Static import
 
 public class StaticImport {

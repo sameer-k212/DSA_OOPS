@@ -1,4 +1,3 @@
-package DSA.Graph._01_Graph_Basics._01_GraphRepresentation;
 import java.util.*;
 public class AdjMatrix {
     public static void main(String[] args) {

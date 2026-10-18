@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._23_LCSubstring;
 
 public class LongestCommonSubstring {
     static int tabulation(String s1, String s2) {

@@ -1,4 +1,3 @@
-package Oops._9_Generics;
 
 import java.util.*;
 public class Gen1 

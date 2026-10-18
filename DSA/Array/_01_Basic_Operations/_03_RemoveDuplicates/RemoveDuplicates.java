@@ -1,4 +1,3 @@
-package DSA.Array._01_Basic_Operations._03_RemoveDuplicates;
 
 public class RemoveDuplicates {
     public static int removeDuplicates(int[] arr) {

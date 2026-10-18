@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._17_WaysToTargetSum;
 import java.util.*;
 
 public class TargetSum {

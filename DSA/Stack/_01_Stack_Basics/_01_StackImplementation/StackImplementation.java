@@ -1,4 +1,3 @@
-package DSA.Stack._01_Stack_Basics._01_StackImplementation;
 
 public class StackImplementation {
     private int[] arr;

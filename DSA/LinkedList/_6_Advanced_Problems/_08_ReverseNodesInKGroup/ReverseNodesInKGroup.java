@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._6_Advanced_Problems._08_ReverseNodesInKGroup;
 
 public class ReverseNodesInKGroup {
     static class ListNode {

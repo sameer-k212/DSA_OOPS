@@ -1,4 +1,3 @@
-package DSA.Recursion._04_Backtracking_Problems._01_PathFinding;
 
 import java.util.ArrayList;
 import java.util.List;

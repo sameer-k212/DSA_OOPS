@@ -1,4 +1,3 @@
-package Oops._11_Collections;
 import java.util.*;
 // all collections store data as object.
 public class Arraylist {

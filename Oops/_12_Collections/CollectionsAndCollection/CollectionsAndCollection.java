@@ -1,4 +1,3 @@
-package Oops._11_Collections.CollectionsAndCollection;
 
 import java.util.ArrayList;
 import java.util.Collection;

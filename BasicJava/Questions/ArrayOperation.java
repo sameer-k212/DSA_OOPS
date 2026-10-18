@@ -1,4 +1,3 @@
-package Questions;
 import java.util.Arrays;
 import java.lang.*;
 public class ArrayOperation {

@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.Stack._03_Monotonic_Stack._04_NextGreaterElement;
 
 import java.util.*;
 

@@ -1,4 +1,3 @@
-package DSA.Graph._02_BFS_DFS_Problems._02_NumberOfProvinces;
 import java.util.*;
 
 public class NoOfProvinces { // basically we need to find no of components of graph

@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.Algorithm.BinarySearch._02_SearchInRotatedArray;
 
 public class SearchInRotatedArray {
     public static int search(int[] nums, int target) {

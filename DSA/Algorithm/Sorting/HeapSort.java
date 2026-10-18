@@ -1,4 +1,3 @@
-package DSA.Algorithm.Sorting;
 
 class HeapSort {
     // function definition of heapify

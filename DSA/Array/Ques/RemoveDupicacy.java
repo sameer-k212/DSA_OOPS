@@ -1,4 +1,3 @@
-package Array;
 
 // Remove duplicates from unsorted array (no extra DS)
 

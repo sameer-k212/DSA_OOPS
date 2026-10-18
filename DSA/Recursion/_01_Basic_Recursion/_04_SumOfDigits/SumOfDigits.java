@@ -1,4 +1,3 @@
-package DSA.Recursion._01_Basic_Recursion._04_SumOfDigits;
 
 public class SumOfDigits {
     public static void main(String[] args) {

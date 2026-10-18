@@ -1,4 +1,3 @@
-package DSA.Array._01_Basic_Operations._02_MissingNumber;
 
 public class MissingNumber {
     public static int findMissing(int[] arr) {

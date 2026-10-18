@@ -1,4 +1,3 @@
-package Oops.IO._8_SelectiveSerialization;
 
 import java.io.*;
 

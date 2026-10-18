@@ -1,4 +1,3 @@
-package Binary_Search;
 
 import java.util.Scanner;
 

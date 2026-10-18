@@ -1,4 +1,3 @@
-package Probability;
 public class Probability {
     public static void main(String[] args) {
         double d = calculateProbability(50);

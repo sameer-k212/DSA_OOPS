@@ -1,4 +1,3 @@
-package DSA.Tree._03_Binary_Search_Tree._03_ValidateBST;
 
 public class ValidateBST {
     static class TreeNode {

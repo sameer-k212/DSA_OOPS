@@ -1,5 +1,4 @@
 // try With Resources 
-package Oops._9_Exception;
 import java.util.Scanner;
 public class _5_ExceptionDemo
 	{

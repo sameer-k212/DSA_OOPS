@@ -1,4 +1,3 @@
-package Oops._6_Static._3_StaticBlocks;
 class DatabaseConfig {
     static String url;
     static String username;

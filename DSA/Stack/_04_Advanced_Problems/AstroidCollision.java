@@ -1,4 +1,3 @@
-package DSA.Stack._04_Advanced_Problems;
 import java.util.*;
 /*
 Example 1:

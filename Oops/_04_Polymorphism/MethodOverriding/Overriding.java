@@ -1,4 +1,3 @@
-package Oops._3_Polymorphism.MethodOverriding;
 // runtime pe hota hain (Dynamic Polymorphism)
 class Aeroplane{
     public void takeOff(){

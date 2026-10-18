@@ -1,4 +1,3 @@
-package Oops.Private;
 import java.util.*;
 
 class Student2

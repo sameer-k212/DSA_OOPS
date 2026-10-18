@@ -1,4 +1,3 @@
-package Oops._7_FinalKeyWord;
 
 // A final method inherit in child class but can not be overide.
 // A class is marked as final then the class won't participate in inheritance.

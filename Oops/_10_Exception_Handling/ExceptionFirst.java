@@ -1,5 +1,4 @@
 // Syntax error
-package Oops._9_Exception;
 
 class Demo1 {
     public void a() throws Exception {

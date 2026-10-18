@@ -1,4 +1,3 @@
-package Oops.Enum_Stream;
 
 //functional interface
 @FunctionalInterface

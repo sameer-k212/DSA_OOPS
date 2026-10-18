@@ -1,4 +1,3 @@
-package DSA.Array._04_Array_Manipulation._02_ProductExceptSelf;
 
 public class ProductExceptSelf {
     public static int[] productExceptSelf(int[] arr) {

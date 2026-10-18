@@ -1,7 +1,6 @@
 // Call By Value Always in Java:
 
 
-package Functions;
 
 public class Function1 {
     public static void swap(int a,int b)

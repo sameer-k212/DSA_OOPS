@@ -1,4 +1,3 @@
-package Oops._8_Interface;
 
 interface Car{       // interface is a concept (car is a concept)
     int a = 7;

@@ -1,4 +1,3 @@
-package Oops._7_FinalKeyWord;
 
 final class A{
     void method(){

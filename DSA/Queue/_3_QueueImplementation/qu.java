@@ -1,4 +1,3 @@
-package DSA.Queue._3_QueueImplementation;
 class Node {
     int val ;
     Node next;

@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.BitManipulation._01_Basics._01_BitwiseOperators;
 
 public class BitwiseOperators {
     public static void main(String[] args) {

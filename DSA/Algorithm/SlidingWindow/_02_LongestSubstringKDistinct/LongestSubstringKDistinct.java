@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.Algorithm.SlidingWindow._02_LongestSubstringKDistinct;
 
 import java.util.*;
 

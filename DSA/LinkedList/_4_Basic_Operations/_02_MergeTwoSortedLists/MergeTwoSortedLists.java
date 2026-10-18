@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._4_Basic_Operations._02_MergeTwoSortedLists;
 
 public class MergeTwoSortedLists {
     static class ListNode {

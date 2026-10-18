@@ -1,4 +1,3 @@
-package DSA.Tree._03_Binary_Search_Tree._04_KthSmallest;
 
 import java.util.*;
 

@@ -1,4 +1,3 @@
-package Oops.IO._2_ReadingFile;
 
 import java.io.File;
 import java.io.FileReader;

@@ -1,4 +1,3 @@
-package DSA.Graph._06_MST_And_Advanced._01_PrimsAlgorithm;
 
 import java.util.*;
 

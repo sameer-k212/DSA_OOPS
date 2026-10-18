@@ -1,4 +1,3 @@
-package DSA.Algorithm.Searching;
 
 public class StringPatternMatching {
     public static void main(String[] args) {

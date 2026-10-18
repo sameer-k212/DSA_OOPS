@@ -1,4 +1,3 @@
-package DSA.Array._01_Basic_Operations._05_FrequencyCount;
 
 import java.util.*;
 

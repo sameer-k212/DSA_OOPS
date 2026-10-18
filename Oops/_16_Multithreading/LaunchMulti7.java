@@ -1,4 +1,3 @@
-package Oops.Multithreading;
 
 class Demo1 implements Runnable
 {

@@ -1,4 +1,3 @@
-package Oops._6_Static._6_ContextConflict;
 
 public class ContextConflict {
     int instanceVar = 10;

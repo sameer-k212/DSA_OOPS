@@ -1,4 +1,3 @@
-package Oops.Multithreading;
 
 import java.util.Scanner;
 

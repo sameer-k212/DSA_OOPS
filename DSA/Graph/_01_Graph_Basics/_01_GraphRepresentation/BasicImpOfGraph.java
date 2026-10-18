@@ -1,4 +1,3 @@
-package DSA.Graph._01_Graph_Basics._01_GraphRepresentation;
 import java.util.*;
 public class BasicImpOfGraph {
     public static void addEdge(List<List<Integer>> AL , int u , int v){

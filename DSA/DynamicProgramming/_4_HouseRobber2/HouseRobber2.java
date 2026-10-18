@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._4_HouseRobber2;
 
 public class HouseRobber2 {
     public int rob(int[] nums) {

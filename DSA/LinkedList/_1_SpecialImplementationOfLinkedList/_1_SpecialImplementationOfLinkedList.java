@@ -1,4 +1,3 @@
-package DSA.LinkedList._1_SpecialImplementationOfLinkedList;
 
 class Node<T>{
     T val;

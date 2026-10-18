@@ -1,4 +1,3 @@
-package DSA.Recursion._02_Subsequences_And_Subsets._05_SplitArrayEqualSum;
 
 import java.util.ArrayList;
 import java.util.List;

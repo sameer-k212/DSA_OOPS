@@ -1,4 +1,3 @@
-package Oops._8_Interface.FunctionalInterface;
 
 /**
  * Functional Interface : a functional interface has exactly one abstract method. Since

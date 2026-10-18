@@ -1,4 +1,3 @@
-package Oops._8_Interface;
 abstract class Aeroplane{
     abstract public void takeOff();
     abstract public void fly();

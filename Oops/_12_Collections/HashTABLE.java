@@ -1,4 +1,3 @@
-package Oops._11_Collections;
 
 import java.util.Hashtable;
 import java.util.Iterator;

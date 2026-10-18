@@ -1,4 +1,3 @@
-package Oops.FileHandling;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;

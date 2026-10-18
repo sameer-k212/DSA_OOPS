@@ -1,4 +1,3 @@
-package String;
 
 public class ReplacingWhiteSpace {
     public static void main(String[] args) {

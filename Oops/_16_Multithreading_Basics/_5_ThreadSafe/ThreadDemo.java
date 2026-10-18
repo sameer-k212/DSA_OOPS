@@ -1,4 +1,3 @@
-package Oops.Threads._5_ThreadSafe;
 
 /**
  * whenever there is functional interface we can use lambda expression. so Runnable is

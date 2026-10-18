@@ -1,4 +1,3 @@
-package Ravi;
 
 public class returnTheLastArrivalTime {
     public static int returnTheArrivalTime(int N,int X){

@@ -1,4 +1,3 @@
-package DSA.Array._06_Matrix_Operations._02_SpiralMatrix;
 
 import java.util.*;
 

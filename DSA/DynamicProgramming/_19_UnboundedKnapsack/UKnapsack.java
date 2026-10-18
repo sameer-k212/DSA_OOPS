@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._19_UnboundedKnapsack;
 
 public class UKnapsack {
     public static void main(String[] args) {

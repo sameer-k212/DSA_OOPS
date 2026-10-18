@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._21_InterleavingString;
 import java.util.*;
 public class InterLeavingString {
         public boolean isInterleave(String s1, String s2, String s3) {

@@ -1,4 +1,3 @@
-package Oops._6_Static._1_StaticVariable;
 
 class Basic {
 //    void main(String args[]){

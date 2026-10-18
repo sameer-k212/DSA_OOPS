@@ -1,4 +1,3 @@
-package Oops._12_ComparableComparator.Comparator;
 import java.util.*;
 //🔹 Comparable vs Comparator (1-line idea)
 //

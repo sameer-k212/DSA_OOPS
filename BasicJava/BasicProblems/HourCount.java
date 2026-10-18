@@ -1,4 +1,3 @@
-package Ravi;
 
 public class HourCount {
     public static int pairhours(int nums[], int n) {

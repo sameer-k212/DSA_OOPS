@@ -1,4 +1,3 @@
-package DSA.LinkedList._1_SinglyLinkedList;
 class Node{
     int data;
     Node next;

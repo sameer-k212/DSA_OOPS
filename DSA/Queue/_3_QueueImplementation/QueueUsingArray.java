@@ -1,4 +1,3 @@
-package DSA.Queue._3_QueueImplementation;
 public class QueueUsingArray {
     private int[] queue;
     private int front, rear, size, capacity;

@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._6_Advanced_Problems._03_ReorderList;
 
 public class ReorderList {
     static class ListNode {

@@ -1,4 +1,3 @@
-package Oops.Multithreading.Syncronization;
 
 class Counter {
     private int count = 0; // shared resource

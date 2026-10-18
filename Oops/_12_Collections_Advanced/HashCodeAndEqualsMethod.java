@@ -1,4 +1,3 @@
-package Oops.collectionframework;
 
 import java.util.HashMap;
 import java.util.Map;

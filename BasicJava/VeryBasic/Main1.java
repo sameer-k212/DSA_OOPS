@@ -1,4 +1,3 @@
-package VeryBasic;
 
 import java.util.*;
 class Main1 {

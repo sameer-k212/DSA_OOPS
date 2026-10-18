@@ -1,4 +1,3 @@
-package Oops.Threads._3_CreatingThreadViaImplementingRunable;
 
 /**
  *                         |

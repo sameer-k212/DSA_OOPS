@@ -1,4 +1,3 @@
-package Oops._9_Exception;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

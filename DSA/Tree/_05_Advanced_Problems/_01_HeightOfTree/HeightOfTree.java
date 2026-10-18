@@ -1,4 +1,3 @@
-package DSA.Tree._05_Advanced_Problems._01_HeightOfTree;
 
 public class HeightOfTree {
     class TreeNode {

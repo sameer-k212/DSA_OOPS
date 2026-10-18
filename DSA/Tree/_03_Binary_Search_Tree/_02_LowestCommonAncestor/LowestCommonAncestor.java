@@ -1,4 +1,3 @@
-package DSA.Tree._03_Binary_Search_Tree._02_LowestCommonAncestor;
 
 public class LowestCommonAncestor {
     static class TreeNode {

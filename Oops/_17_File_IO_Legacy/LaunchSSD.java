@@ -1,4 +1,3 @@
-package Oops.FileHandling;
 
 import java.io.*;
 class Cricketer1 implements Serializable

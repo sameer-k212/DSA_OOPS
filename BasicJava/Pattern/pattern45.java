@@ -1,4 +1,3 @@
-package Pattern;
 
 public class pattern45 {
     public static void main(String[] args) {

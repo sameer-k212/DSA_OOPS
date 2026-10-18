@@ -1,4 +1,3 @@
-package Oops._6_Static;
 
 public class LaunchStatic {
 

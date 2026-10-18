@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._27_Find_Original_Typed_String_II;
 import java.util.*;
 public class Find_Original_Typed_String_II {
     int mod = 1000000007;

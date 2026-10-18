@@ -1,4 +1,3 @@
-package DSA.Queue._2_DequeueDemo;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

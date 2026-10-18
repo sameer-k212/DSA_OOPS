@@ -1,4 +1,3 @@
-package Oops.Threads._2_CreatingThreadViaExtendingThread;
 
 /**
  * Java itself is not inherently single-threaded. While a basic Java program starts with

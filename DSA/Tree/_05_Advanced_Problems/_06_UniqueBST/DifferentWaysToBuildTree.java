@@ -1,4 +1,3 @@
-package DSA.Tree._05_Advanced_Problems._06_UniqueBST;
 import java.util.*;
 public class DifferentWaysToBuildTree {
     class TreeNode {

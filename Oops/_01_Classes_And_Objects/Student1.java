@@ -1,4 +1,3 @@
-package Oops._0_Classes$Object;
 
 // Creation of object.
 

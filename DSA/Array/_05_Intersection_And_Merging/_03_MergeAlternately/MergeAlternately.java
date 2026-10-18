@@ -1,4 +1,3 @@
-package DSA.Array._05_Intersection_And_Merging._03_MergeAlternately;
 
 public class MergeAlternately {
     public static String merge(String s1, String s2) {

@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._25_MinimumInsertionToMakeStringPalindrome;
 
 import java.util.Arrays;
 

@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._7_MinPathSumInGrid;
 
 public class MinPathSum2D {
     public int minPathSum(int[][] grid) {

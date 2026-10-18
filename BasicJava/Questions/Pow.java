@@ -1,4 +1,3 @@
-package Questions;
 
 public class Pow {
     public static void main(String[] args) {

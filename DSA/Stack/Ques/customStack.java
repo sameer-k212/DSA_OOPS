@@ -1,4 +1,3 @@
-package StacksAndQueues;
 
 public class customStack {
 

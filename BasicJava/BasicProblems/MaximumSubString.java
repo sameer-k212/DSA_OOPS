@@ -1,4 +1,3 @@
-package Ravi;
 
 public class MaximumSubString {
     public static void coutmaxstr(String  st){

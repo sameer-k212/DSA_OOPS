@@ -1,4 +1,3 @@
-package Oops._6_Static;
 class basic4
 {
     static int m;

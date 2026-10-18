@@ -1,4 +1,3 @@
-package Oops._11_Collections;
 import java.util.HashMap;
 import java.util.*;
 import java.util.Map.*;

@@ -1,4 +1,3 @@
-package Oops._6_Static;
 class Demo
 {
     static int a=45;

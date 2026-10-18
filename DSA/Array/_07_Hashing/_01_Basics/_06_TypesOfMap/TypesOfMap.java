@@ -1,4 +1,3 @@
-package DSA.Array._07_Hashing._01_Basics._06_TypesOfMap;
 
 import java.util.*;
 

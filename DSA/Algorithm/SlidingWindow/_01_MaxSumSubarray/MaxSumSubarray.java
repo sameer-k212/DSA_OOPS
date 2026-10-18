@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.Algorithm.SlidingWindow._01_MaxSumSubarray;
 
 public class MaxSumSubarray {
     public static int maxSumFixedWindow(int[] arr, int k) {

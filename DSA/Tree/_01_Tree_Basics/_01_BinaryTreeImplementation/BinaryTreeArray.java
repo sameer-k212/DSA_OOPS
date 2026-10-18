@@ -1,4 +1,3 @@
-package DSA.Tree._01_Tree_Basics._01_BinaryTreeImplementation;
 public class BinaryTreeArray {
     String[] tree;
     int size;

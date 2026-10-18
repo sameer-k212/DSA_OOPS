@@ -1,4 +1,3 @@
-package Oops.Enum_Stream;
 
 enum Result1
 {

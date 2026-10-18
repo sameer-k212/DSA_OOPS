@@ -1,4 +1,3 @@
-package DSA.Algorithm.Searching;
 // Searching linearly
 import java.util.Scanner;
 

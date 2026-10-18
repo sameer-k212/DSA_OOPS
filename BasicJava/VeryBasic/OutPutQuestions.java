@@ -1,4 +1,3 @@
-package VeryBasic;
 
 
 class Myclass

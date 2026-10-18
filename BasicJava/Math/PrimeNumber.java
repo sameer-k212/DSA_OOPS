@@ -1,4 +1,3 @@
-package BasicJava.Math;
 
 public class PrimeNumber {
     static boolean Prime(int n)

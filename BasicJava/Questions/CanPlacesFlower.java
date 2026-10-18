@@ -1,4 +1,3 @@
-package Questions;
 
 class CanPlacesFlower {
     public static boolean canPlaceFlowers(int[] flowerbed, int n) {

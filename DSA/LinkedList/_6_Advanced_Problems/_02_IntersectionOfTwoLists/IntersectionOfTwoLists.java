@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._6_Advanced_Problems._02_IntersectionOfTwoLists;
 
 public class IntersectionOfTwoLists {
     static class ListNode {

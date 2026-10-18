@@ -1,4 +1,3 @@
-package DSA.Tree._01_Tree_Basics._02_AVLTree;
 
 public class AVLTree {
     static class TreeNode{

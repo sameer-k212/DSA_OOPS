@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.Stack._01_Stack_Basics._03_StackUsingLinkedList;
 
 public class StackUsingLinkedList {
     static class Node {

@@ -1,4 +1,3 @@
-package Array;
 
 
 //Find the frequency of each element

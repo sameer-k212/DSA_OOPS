@@ -1,4 +1,3 @@
-package DSA.Recursion._01_Basic_Recursion._03_Power;
 
 public class Power {
     public static void main(String[] args) {

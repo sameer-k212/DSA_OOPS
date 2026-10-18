@@ -1,4 +1,3 @@
-package Oops._6_Static._4_StaticClass;
 
 
 class OuterClass {

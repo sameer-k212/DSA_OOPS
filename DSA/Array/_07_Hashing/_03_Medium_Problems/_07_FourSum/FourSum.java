@@ -1,4 +1,3 @@
-package DSA.Array._07_Hashing._03_Medium_Problems._07_FourSum;
 
 import java.util.*;
 

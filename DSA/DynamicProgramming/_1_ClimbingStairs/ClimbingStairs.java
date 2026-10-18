@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._1_ClimbingStairs;
 import java.util.*;
 public class ClimbingStairs {
     public static Map<Integer, Integer> memo = new HashMap<>();

@@ -1,4 +1,3 @@
-package Questions;
 
 public class SearchSortPosition {
     int index;

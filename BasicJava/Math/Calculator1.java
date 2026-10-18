@@ -1,4 +1,3 @@
-package BasicJava.Math;
 import java.util.*;
 class Clac{
     void operation(int a ,int b,char c){

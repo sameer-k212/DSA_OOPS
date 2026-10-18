@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._16_MinimumCoin;
 
 public class MinCoin {
 

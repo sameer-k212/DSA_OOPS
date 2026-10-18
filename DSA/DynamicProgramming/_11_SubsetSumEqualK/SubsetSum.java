@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._11_SubsetSumEqualK;
 
 // max value in arr 100;
 // max value of k 100;

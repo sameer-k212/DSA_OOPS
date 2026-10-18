@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._5_Two_Pointer_Problems._02_DetectCycle;
 
 public class DetectCycle {
     static class ListNode {

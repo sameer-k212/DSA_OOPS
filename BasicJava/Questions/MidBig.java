@@ -1,4 +1,3 @@
-package Questions;
 import java.util.Arrays;
 public class MidBig {
     public static void main(String[] args) {

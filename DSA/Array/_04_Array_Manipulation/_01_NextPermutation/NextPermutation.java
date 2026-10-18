@@ -1,4 +1,3 @@
-package DSA.Array._04_Array_Manipulation._01_NextPermutation;
 
 import java.util.Arrays;
 

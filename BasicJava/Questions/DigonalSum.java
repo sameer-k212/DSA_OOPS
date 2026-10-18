@@ -1,4 +1,3 @@
-package Questions;
 
 public class DigonalSum {
     public static int diagonalSum(int[][] mat) {

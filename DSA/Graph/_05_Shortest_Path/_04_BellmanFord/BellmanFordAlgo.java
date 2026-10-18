@@ -1,4 +1,3 @@
-package DSA.Graph._05_Shortest_Path._04_BellmanFord;
 
 import java.util.*;
 public class BellmanFordAlgo {

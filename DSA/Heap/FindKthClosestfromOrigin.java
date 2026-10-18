@@ -1,4 +1,3 @@
-package DSA.Heap;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

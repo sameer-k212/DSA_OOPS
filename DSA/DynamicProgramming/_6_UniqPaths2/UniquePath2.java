@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._6_UniqPaths2;
 
 public class UniquePath2 {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {

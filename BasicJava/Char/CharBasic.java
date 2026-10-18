@@ -1,4 +1,3 @@
-package Char;
 public class CharBasic {
     public static void main(String[] args) {
         String str = "sameer";

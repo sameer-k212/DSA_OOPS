@@ -1,4 +1,3 @@
-package DSA.Recursion._03_Permutations_And_Combinations._03_GenerateParentheses;
 
 import java.util.ArrayList;
 import java.util.List;

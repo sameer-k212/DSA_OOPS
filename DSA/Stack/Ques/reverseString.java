@@ -1,4 +1,3 @@
-package Assessment_05;
 import java.util.*;
 public class reverseString {
     static void main(String[] args) {

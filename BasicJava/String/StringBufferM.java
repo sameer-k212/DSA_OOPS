@@ -1,4 +1,3 @@
-package String;
 
 public class StringBufferM {
     public static void main(String[] args){

@@ -1,4 +1,3 @@
-package Pattern;
 
 public class Pattern24 {
     public static void main(String args[])

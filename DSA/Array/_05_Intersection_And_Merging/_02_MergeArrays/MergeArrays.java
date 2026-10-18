@@ -1,4 +1,3 @@
-package DSA.Array._05_Intersection_And_Merging._02_MergeArrays;
 
 public class MergeArrays {
     public static int[] merge(int[] arr1, int[] arr2) {

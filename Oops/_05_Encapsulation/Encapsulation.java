@@ -1,4 +1,3 @@
-package Oops._4_Encapsulation;
 
 class Student
 {

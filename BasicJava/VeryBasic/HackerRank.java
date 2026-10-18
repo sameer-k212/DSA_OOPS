@@ -1,4 +1,3 @@
-package VeryBasic;
 import java.util.*;
 public class HackerRank {
     public static void main(String[] args) {

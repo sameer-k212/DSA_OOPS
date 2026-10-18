@@ -1,4 +1,3 @@
-package Questions;
 
 public class ReverseVowelsOfString {
     public static void main(String[] args) {

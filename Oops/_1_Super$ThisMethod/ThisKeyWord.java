@@ -1,4 +1,3 @@
-package Oops._1_Super$ThisMethod;
 
 
 class Hello{

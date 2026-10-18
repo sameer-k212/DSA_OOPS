@@ -1,4 +1,3 @@
-package Questions;
 import java.util.*;
 public class Factorial {
     private static final int MAX = 500;

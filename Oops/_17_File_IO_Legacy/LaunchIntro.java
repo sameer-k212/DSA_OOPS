@@ -1,4 +1,3 @@
-package Oops.FileHandling;
 
 class Student
 {

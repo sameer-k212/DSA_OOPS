@@ -1,5 +1,4 @@
 
-package Oops.Enum_Stream;
 enum Result
 {
     PASS, FAIL, NR;

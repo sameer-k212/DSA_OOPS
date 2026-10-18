@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._5_UniquePaths;
 
 public class UniquePaths {
     public int uniquePaths(int m, int n) {

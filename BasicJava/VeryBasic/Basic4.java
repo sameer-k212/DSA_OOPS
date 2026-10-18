@@ -1,4 +1,3 @@
-package VeryBasic;
 
 public class Basic4 {
     static int  n;

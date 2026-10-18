@@ -1,4 +1,3 @@
-package DSA.Array._03_Two_Pointer._01_TwoSum;
 
 import java.util.*;
 

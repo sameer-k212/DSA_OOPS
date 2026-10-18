@@ -1,4 +1,3 @@
-package DSA.Tree._04_Tree_Views._04_VerticalOrderTraversal;
 import java.util.*;
 public class VerticalOrdPrinting {
     class Node{

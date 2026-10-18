@@ -1,4 +1,3 @@
-package DSA.Array._07_Hashing._01_Basics._04_CharacterHashing;
 
 public class CharacterHashing {
     public static void main(String[] args) {

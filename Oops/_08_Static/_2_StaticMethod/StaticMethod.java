@@ -1,4 +1,3 @@
-package Oops._6_Static._2_StaticMethod;
 class MathUtility {
     // Static method
     static int add(int a, int b) {

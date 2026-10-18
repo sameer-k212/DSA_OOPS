@@ -1,4 +1,3 @@
-package Oops.WhyAnInterfaceNeedToExtendsAClass;
 
 /**
  * it is not mindetary that if we have created a class name with file name

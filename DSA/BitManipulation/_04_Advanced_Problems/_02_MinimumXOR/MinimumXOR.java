@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.BitManipulation._04_Advanced_Problems._02_MinimumXOR;
 
 import java.util.*;
 

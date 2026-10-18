@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.DynamicProgramming._30_MatrixChainMultiplication;
 
 import java.util.*;
 

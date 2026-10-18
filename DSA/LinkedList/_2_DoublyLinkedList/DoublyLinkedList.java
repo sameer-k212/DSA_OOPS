@@ -1,4 +1,3 @@
-package DSA.LinkedList._2_DoublyLinkedList;
 
 
 class DoublyNode {

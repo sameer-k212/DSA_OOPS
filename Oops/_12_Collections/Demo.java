@@ -1,4 +1,3 @@
-package Oops._11_Collections;
 
  public class Demo {
     public static void main(String[] args) {

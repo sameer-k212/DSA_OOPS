@@ -1,4 +1,3 @@
-package DSA.Array._02_Rotation_And_Sorting._02_CheckSortedRotated;
 
 public class CheckSortedRotated {
     public static boolean check(int[] arr) {

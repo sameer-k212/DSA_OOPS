@@ -1,4 +1,3 @@
-package Oops._9_Exception;
 class MyException extends Exception
 {
 	public MyException(){

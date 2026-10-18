@@ -1,4 +1,3 @@
-package DSA.Tree._05_Advanced_Problems._07_LCABinaryTree;
 
 public class LCABinaryTree {
     static class TreeNode {

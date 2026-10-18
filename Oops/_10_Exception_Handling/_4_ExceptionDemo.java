@@ -1,5 +1,4 @@
 // try finally 
-package Oops._9_Exception;
 import java.util.Scanner;
 public class _4_ExceptionDemo
 	{

@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._26_ShortestSupersequence;
 
 public class ShortestSupersequence {
     static String tabulation(String s1, String s2){

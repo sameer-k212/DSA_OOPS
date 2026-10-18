@@ -1,4 +1,3 @@
-package Ravi;
 
 public class ReturntheHowMAnyGroupps {
     public static int groups(int n, int nums[]){

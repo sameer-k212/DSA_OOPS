@@ -1,4 +1,3 @@
-package DSA.Tree._05_Advanced_Problems._05_BinaryTreeColoring;
 import java.util.*;
 public class BinaryTreeColoring {
     class TreeNode {

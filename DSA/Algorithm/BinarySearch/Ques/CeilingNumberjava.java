@@ -1,4 +1,3 @@
-package Binary_Search;
 
 // Ceiling of a number
 

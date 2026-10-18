@@ -1,4 +1,3 @@
-package DSA.Graph._01_Graph_Basics._03_DFS;
 import java.util.*;
 public class DFS {
     public static List<Integer> DFS(List<List<Integer>> list,int v){

@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._24_LongestPalindromicSubsequence;
 import java.util.*;
 public class LongestPalindromicSubsequence {
     static int tabulation(String s1, String s2) {

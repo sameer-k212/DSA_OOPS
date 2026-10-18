@@ -1,4 +1,3 @@
-package DSA.Recursion._01_Basic_Recursion._02_Fibonacci;
 
 public class Fibonacci {
     public static void main(String[] args) {

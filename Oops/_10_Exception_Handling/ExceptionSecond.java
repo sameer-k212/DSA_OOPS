@@ -1,5 +1,4 @@
 // Runtime error or Oops.Exception
-package Oops._9_Exception;
 public class ExceptionSecond
 	{
 	public static void main(String[] args)

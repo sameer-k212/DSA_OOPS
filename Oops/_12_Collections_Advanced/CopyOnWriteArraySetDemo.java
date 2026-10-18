@@ -1,4 +1,3 @@
-package com.engineeringdigest.collectionframework;
 
 import java.util.concurrent.ConcurrentSkipListSet;
 import java.util.concurrent.CopyOnWriteArraySet;

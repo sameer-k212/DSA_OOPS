@@ -1,4 +1,3 @@
-package Oops.IO._9_Summary;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

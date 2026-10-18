@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._4_Basic_Operations._01_ReverseLinkedList;
 
 public class ReverseLinkedList {
     static class ListNode {

@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._6_Advanced_Problems._07_AddTwoNumbers;
 
 public class AddTwoNumbers {
     static class ListNode {

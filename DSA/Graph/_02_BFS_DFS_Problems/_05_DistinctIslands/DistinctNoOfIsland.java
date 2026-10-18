@@ -1,4 +1,3 @@
-package DSA.Graph._02_BFS_DFS_Problems._05_DistinctIslands;
 import java.util.*;
 public class DistinctNoOfIsland {
     static class Pair {

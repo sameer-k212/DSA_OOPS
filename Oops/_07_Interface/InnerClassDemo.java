@@ -1,4 +1,3 @@
-package Oops._8_Interface;
 
 // inner class - Member, static and Anonymous
 

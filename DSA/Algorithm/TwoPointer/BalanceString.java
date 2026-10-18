@@ -1,4 +1,3 @@
-package DSA.Algorithm.TwoPointer;
 
 public class BalanceString {
     public static int minimumDeletions(String s) {

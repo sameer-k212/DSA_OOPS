@@ -1,4 +1,3 @@
-package Oops.IO._1_CreatingFile;
 import java.io.*;
 public class LaunchFile2 {
     public static void main(String[] args) throws IOException

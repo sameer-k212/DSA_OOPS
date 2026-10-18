@@ -1,4 +1,3 @@
-package DSA.Queue._1_QueueDemo;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,3 @@
-package VeryBasic;
 
 public class FriendBasic {
     public static void main(String[] args) {

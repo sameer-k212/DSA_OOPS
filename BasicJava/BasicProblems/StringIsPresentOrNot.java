@@ -1,4 +1,3 @@
-package Ravi;
 
 public class StringIsPresentOrNot {
     public static String findOrNot(String s1, String str,int n){

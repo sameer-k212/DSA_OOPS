@@ -3,7 +3,6 @@
 //333
 //4444
 //55555
-package Pattern;
 
 public class patternTwo {
     public static void main(String arg[])

@@ -1,4 +1,3 @@
-package DSA.LinkedList._1_SinglyLinkedList;
 
 public class Solution {
     public static ListNode method(ListNode head) {

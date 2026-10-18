@@ -1,4 +1,3 @@
-package Oops._9_Exception;
 
 public class _8_ThrowKeyWord {
     public static void main(String args[]) {

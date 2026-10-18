@@ -1,4 +1,3 @@
-package DSA.Graph._02_BFS_DFS_Problems._09_BipartiteGraph;
 
 import java.util.*;
 

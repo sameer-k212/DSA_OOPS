@@ -1,4 +1,3 @@
-package DSA.Array._03_Two_Pointer._03_TrappingRainWater;
 
 public class TrappingRainWater {
     public static int trap(int[] height) {

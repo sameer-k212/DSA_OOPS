@@ -1,4 +1,3 @@
-package Oops.Enum_Stream;
 //enum -- 1.5 
 
 enum Week

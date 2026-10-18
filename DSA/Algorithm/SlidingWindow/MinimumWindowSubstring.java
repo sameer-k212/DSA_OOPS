@@ -1,4 +1,3 @@
-package DSA.Algorithm.SlidingWindow;
 
 import java.util.Arrays;
 

@@ -1,4 +1,3 @@
-package DSA.Tree._05_Advanced_Problems._03_IdenticalTree;
 
 import java.util.*;
 public class IdenticalTree {

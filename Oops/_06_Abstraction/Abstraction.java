@@ -1,4 +1,3 @@
-package Oops._5_Abstraction;
 
 abstract class Abs1{
     Abs1(){  // you can create a constructor.

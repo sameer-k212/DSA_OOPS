@@ -1,5 +1,4 @@
 // Checked and Unchecked Oops.Exception
-package Oops._9_Exception;
 public class ExceptionTest
 {
 	public static void main(String[] args)

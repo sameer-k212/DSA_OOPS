@@ -1,4 +1,3 @@
-package Oops._2_Inheritance;
 
 class parent{
     void work(){

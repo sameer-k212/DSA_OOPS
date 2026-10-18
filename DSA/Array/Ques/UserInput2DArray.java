@@ -1,4 +1,3 @@
-package Array;
 
 
 //take 2Darray input

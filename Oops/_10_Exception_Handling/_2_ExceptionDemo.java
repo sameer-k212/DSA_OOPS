@@ -1,4 +1,3 @@
-package Oops._9_Exception;// try with multiple catch Blocks
 
 public class _2_ExceptionDemo
 	{

@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.BitManipulation._01_Basics._02_BitOperations;
 
 public class BitOperations {
     public static boolean getBit(int num, int i) {

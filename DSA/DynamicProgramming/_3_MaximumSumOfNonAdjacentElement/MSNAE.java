@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._3_MaximumSumOfNonAdjacentElement;
 
 import java.util.Arrays;
 

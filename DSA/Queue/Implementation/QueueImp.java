@@ -1,4 +1,3 @@
-package DSA.Queue.Implementation;
 
 public class QueueImp {
     int arr[];

@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._6_Advanced_Problems._01_PalindromeLinkedList;
 
 public class PalindromeLinkedList {
     static class ListNode {

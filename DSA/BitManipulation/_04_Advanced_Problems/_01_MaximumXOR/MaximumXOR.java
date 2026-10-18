@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.BitManipulation._04_Advanced_Problems._01_MaximumXOR;
 
 public class MaximumXOR {
     public static int findMaximumXOR(int[] nums) {

@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.BitManipulation._02_Basic_Problems._01_CheckPowerOfTwo;
 
 public class CheckPowerOfTwo {
     public static boolean isPowerOfTwo(int n) {

@@ -1,4 +1,3 @@
-package DSA.Recursion._04_Backtracking_Problems._04_WordSearch;
 
 public class WordSearch {
     public static void main(String[] args) {

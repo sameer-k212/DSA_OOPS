@@ -1,4 +1,3 @@
-package Oops._12_ComparableComparator.Comparable;
 import java.util.ArrayList;
 import java.util.List;
 

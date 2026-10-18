@@ -1,4 +1,3 @@
-package BasicJava.Math;
 
 // Reversing of a Number.
 

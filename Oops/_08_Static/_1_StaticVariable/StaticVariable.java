@@ -1,4 +1,3 @@
-package Oops._6_Static._1_StaticVariable;
 
 class Student {
     static int totalStudents = 0; // Static variable shared by all instances

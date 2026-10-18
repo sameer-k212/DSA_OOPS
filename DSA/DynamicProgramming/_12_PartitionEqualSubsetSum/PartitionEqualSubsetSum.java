@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._12_PartitionEqualSubsetSum;
 
 public class PartitionEqualSubsetSum {
     public boolean canPartition(int[] nums) {

@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.Stack._04_Advanced_Problems._01_LargestRectangleHistogram;
 
 import java.util.*;
 

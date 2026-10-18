@@ -1,4 +1,3 @@
-package com.engineeringdigest.collectionframework;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ConcurrentLinkedQueue;

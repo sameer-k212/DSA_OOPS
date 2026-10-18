@@ -1,4 +1,3 @@
-package Ravi;
 
 public class counthecharacter {
     public static int count(String  st,int n,char c){

@@ -1,4 +1,3 @@
-package DSA.Array._07_Hashing._01_Basics._01_HashMapImplementation;
 
 public class HashMapImplementation {
     class Node {

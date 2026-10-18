@@ -1,4 +1,3 @@
-package Array;
 import java.util.*;
 public class LC_Q74 {   // Similar  Ques 240
 	static boolean searchMatrix(int[][] nums , int target) {

@@ -1,4 +1,3 @@
-package Oops._1_Constructor;
 
 class Parent{
     int a,b;

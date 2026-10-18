@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.LinkedList._6_Advanced_Problems._04_RotateList;
 
 public class RotateList {
     static class ListNode {

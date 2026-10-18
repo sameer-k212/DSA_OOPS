@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._2_FrogJump;
 import java.util.*;
 
 public class FrogJump {

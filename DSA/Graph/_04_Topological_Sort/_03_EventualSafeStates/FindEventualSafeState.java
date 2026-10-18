@@ -1,4 +1,3 @@
-package DSA.Graph._04_Topological_Sort._03_EventualSafeStates;
 import java.util.*;
 
 public class FindEventualSafeState {

@@ -1,4 +1,3 @@
-package DSA.Tree._02_Tree_Traversals._01_LevelOrderTraversal;
 import java.util.*;
 // BFS Traversal - Level Order Traversal
 

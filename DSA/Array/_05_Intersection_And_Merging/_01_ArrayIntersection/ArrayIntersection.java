@@ -1,4 +1,3 @@
-package DSA.Array._05_Intersection_And_Merging._01_ArrayIntersection;
 
 import java.util.*;
 

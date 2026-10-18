@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._22_PrintLCS;
 
 public class PrintLCS{
     static void tabulation(String s1, String s2) {

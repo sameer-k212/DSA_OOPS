@@ -1,4 +1,3 @@
-package DSA.Graph._01_Graph_Basics._02_BFS;
 import java.util.*;
 public class BFS {
 

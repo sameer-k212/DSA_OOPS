@@ -1,4 +1,3 @@
-package Questions;
 
 public class Parlindrome {
     static int isPalindrome(String S) {

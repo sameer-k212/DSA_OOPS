@@ -1,4 +1,3 @@
-package DSA.Tree._04_Tree_Views._06_RightView;
 
 import java.util.*;
 

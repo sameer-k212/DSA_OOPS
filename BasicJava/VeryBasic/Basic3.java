@@ -1,4 +1,3 @@
-package VeryBasic;
 
 // Data types
 

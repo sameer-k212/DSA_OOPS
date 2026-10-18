@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._12_PartitionArrayIntoEqualSizeWithMinSumDiff;
 // Remember nums[i] >= 0;
 
 public class PartitionArrayIntoEqualSizeWithMinSumDiff {

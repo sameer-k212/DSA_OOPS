@@ -1,4 +1,3 @@
-package Oops.IO._5_PrintWriter;
 
 import java.io.*;
 public class PW {

@@ -1,4 +1,3 @@
-package BasicJava.Math;
 
 // sum of n natural number
 

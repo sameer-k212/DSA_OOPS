@@ -1,4 +1,3 @@
-package DSA.Tree._05_Advanced_Problems._03_MaxPathSum;
 
 public class MaxPathSum {
 

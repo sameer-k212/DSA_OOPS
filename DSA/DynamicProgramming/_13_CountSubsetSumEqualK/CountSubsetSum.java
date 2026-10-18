@@ -1,4 +1,3 @@
-package DSA.DynamicProgramming._13_CountSubsetSumEqualK;
 
 public class CountSubsetSum {
     public static void main(String[] args) {

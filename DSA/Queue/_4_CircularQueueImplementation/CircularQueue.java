@@ -1,4 +1,3 @@
-package DSA.Queue._4_CircularQueueImplementation;
 
 public class CircularQueue {
     private int[] queueArray;

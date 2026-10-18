@@ -1,4 +1,3 @@
-package String;
 
 public class indexOf {
     public static void main(String[] args) {

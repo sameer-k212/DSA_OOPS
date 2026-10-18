@@ -1,4 +1,3 @@
-package DSA.Graph._02_BFS_DFS_Problems._04_NumberOfIslands;
 import java.util.*;
 // Digonal 1 is not consider as is it is not top, bottom or left, right(4 direction) to any one figure is for(8dir).
 class Island {

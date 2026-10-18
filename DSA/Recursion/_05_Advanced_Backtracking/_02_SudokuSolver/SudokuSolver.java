@@ -1,4 +1,3 @@
-package DSA.Recursion._05_Advanced_Backtracking._02_SudokuSolver;
 
 public class SudokuSolver {
     public static void main(String[] args) {

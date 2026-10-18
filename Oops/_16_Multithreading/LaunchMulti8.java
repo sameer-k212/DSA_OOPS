@@ -1,4 +1,3 @@
-package Oops.Multithreading;
 
 class Printing implements Runnable{
     public void run() {

@@ -1,4 +1,3 @@
-package DSA_OOPS.DSA.Algorithm.BinarySearch._01_BasicBinarySearch;
 
 public class BinarySearch {
     public static int binarySearch(int[] arr, int target) {

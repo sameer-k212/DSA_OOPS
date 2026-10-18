@@ -1,4 +1,3 @@
-package Oops.IO._6_Serialization;
 
 import java.io.*;
 

@@ -1,4 +1,3 @@
-package DSA.Algorithm.KdanesAlgo;
 
 public class KadanesAlgorithm {
 

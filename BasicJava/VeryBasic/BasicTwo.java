@@ -1,4 +1,3 @@
-package VeryBasic;
 /*
 
 type casting.   {destination type > source type}

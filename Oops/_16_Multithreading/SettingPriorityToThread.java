@@ -1,4 +1,3 @@
-package Oops.Multithreading;
 
 /**
 public class MyThread extends Thread {

@@ -1,4 +1,3 @@
-package Oops._8_Interface;
 interface Animal{
     void sleep(); // must implement
     static void run(){  // this is only belong to this interface. can not be override

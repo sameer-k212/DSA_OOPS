@@ -1,4 +1,3 @@
-package Questions;
 
 public class MedianOfTwoArray {
     static int medianOfTwoArray(int arr1[],int arr2[]){
