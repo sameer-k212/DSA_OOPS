@@ -1,5 +1,4 @@
-package Oops._0_Classes$Object;
- class calc{
+class calc{
     public int add(int n,int m)
     {
         return n+m;

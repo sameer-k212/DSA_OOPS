@@ -1,4 +1,3 @@
-package Oops._3_Polymorphism.MethodOverloading;
 // compile time pe hota hain. (Static polymorphism)
 
 public class Overloading {
@@ -14,6 +13,6 @@ public class Overloading {
         System.out.println("This is method with two parameter");
     }
     public static void main(String[] args) {
-
+        method1();
     }
 }

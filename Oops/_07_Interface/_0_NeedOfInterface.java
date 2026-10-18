@@ -1,4 +1,3 @@
-package Oops._8_Interface;
 
 /**
  *  in interface : methods are by default public abstract.
