@@ -1,6 +1,5 @@
 //import
 
-import java.net.spi.InetAddressResolver;
 import java.util.*;
 
 public class countTheSecontLargest {
